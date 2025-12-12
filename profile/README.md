@@ -62,7 +62,6 @@ WyrdCoders is more than just examples. Over time, we aim to grow into a **develo
 - A library of reference projects
 - Guides on architecture and design
 - Community-driven contributions
-## Hi there 👋
 
 <!--
 
